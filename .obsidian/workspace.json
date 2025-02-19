@@ -11,10 +11,14 @@
             "id": "6a81c73f285f5a84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-2025/Spring/Modern OS/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Introduction"
             }
           }
         ]
@@ -181,8 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57d14ba673d0785d",
+  "active": "6a81c73f285f5a84",
   "lastOpenFiles": [
+    "2024-2025/Spring/Modern OS/pics/L1_p1.png",
+    "2024-2025/Spring/Modern OS/Introduction.md",
+    "2024-2025/Spring/Modern OS/pics",
+    "2024-2025/Spring/Modern OS/新建文件夹",
     "2024-2025/Spring/Modern OS",
     "2024-2025/Spring",
     "Spring",
