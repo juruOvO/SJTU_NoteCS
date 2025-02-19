@@ -172,17 +172,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cddb63200046ca62",
+  "active": "57d14ba673d0785d",
   "lastOpenFiles": [
+    "2024-2025/Spring/Modern OS",
+    "2024-2025/Spring",
+    "Spring",
+    "2024-2025",
+    "README.md",
     "欢迎.md"
   ]
 }
