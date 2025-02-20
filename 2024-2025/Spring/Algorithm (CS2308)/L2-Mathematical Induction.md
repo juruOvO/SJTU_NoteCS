@@ -85,4 +85,7 @@ _V+F=E+2_
 
 ### Graph Problem
 _G = (V,E), G is a directed graph, prove that:
-Exists an independent set (in which every two points are not adv_
+Exists an independent set (in which every two points are not adjecent) S(G),
+that every node in G can be reached from a node in S(G) via a path (len <= 2)_
+n<3, T
+
