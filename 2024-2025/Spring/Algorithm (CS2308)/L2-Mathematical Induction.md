@@ -21,8 +21,13 @@
 
 ## Example
 ### Plane Split Problem
+_How many zones can be _
 Let there are n-1 lines in the plane:
 For L(n) and L(n+1),
 In Zone X, intersection of L(n) and L(n+1) exists -> split in 4
 In other Zones, 
-1) 
+1) No effect
+2) Split by L(n)
+3) Split by L(n+1)
+So assume L(n) has been added, then when L(n+1) is added, 
+(n-1) + 2 zones are added.
