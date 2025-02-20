@@ -53,4 +53,10 @@ _Triangle:
 ...
 Prove: Sum of Line(i) = i^3_
 1. (i+1)^3 - i^3 = 3i^2 +3i +1
-2. 
+2. The last num of L(i+1) is ?
+3. ...
+
+**The Problem Can Be Done In Several Steps**
+
+### Inequation Problem
+_Prove: 1/2 + 1/4 + ...+ 1/2_
