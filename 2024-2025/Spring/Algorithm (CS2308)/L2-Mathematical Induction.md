@@ -59,4 +59,19 @@ Prove: Sum of Line(i) = i^3_
 **The Problem Can Be Done In Several Steps**
 
 ### Inequation Problem
-_Prove: 1/2 + 1/4 + ...+ 1/2_
+_Prove: 1/2 + 1/4 + ...+ 1/2^n < 1_
+n = 1 , true
+if P(n) is true,
+P(n+1):
+1/2 + 1/2(1/2 + 1/4 + ...) < 1
+
+**Consider The FIRST Item**
+
+### Euler Formula
+_V+F=E+2_
+1. F=1
+	V+1=E+2
+	V=1, T
+	V=n T (Suppose)
+	E = n-1
+	
