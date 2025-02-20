@@ -15,4 +15,14 @@
 
 ## Another Form of Induction II:
 1. P(1)
-2. For n>1 AND n=2^k (k)
+2. For n>1 AND n=2^k (k∈Z), P(n/2)->P(n)
+3. Conclusion: For every n=2^k (k∈Z), P(n)
+
+
+## Example
+### Plane Split Problem
+Let there are n-1 lines in the plane:
+For L(n) and L(n+1),
+In Zone X, intersection of L(n) and L(n+1) exists -> split in 4
+In other Zones, 
+1) 
