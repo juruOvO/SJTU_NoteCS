@@ -21,7 +21,7 @@
 
 ## Example
 ### Plane Split Problem
-_How many zones can be _
+_How many zone can there be when a plane is split by n lines?_
 Let there are n-1 lines in the plane:
 For L(n) and L(n+1),
 In Zone X, intersection of L(n) and L(n+1) exists -> split in 4
@@ -31,3 +31,13 @@ In other Zones,
 3) Split by L(n+1)
 So assume L(n) has been added, then when L(n+1) is added, 
 (n-1) + 2 zones are added.
+
+**The induction method handles the Increasing Rate of function**
+**Guess and prove**
+
+### Coloring Porblem (2 Colors)
+_Prove_
+n=1 (1 line) P(1) is true.
+Suppose k<n, P(k) is true,
+For L(n),
+Let color on one 
