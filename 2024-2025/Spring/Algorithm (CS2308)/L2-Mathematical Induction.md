@@ -74,4 +74,15 @@ _V+F=E+2_
 	V=1, T
 	V=n T (Suppose)
 	E = n-1
-	
+	When V = n+1, T
+2. F=n
+	Suppose T
+	When F=n+1
+	f is enclosed by circuit
+	...
+
+**Nesting Induction (Mutiple Params)**
+
+### Graph Problem
+_G = (V,E), G is a directed graph, prove that:
+Exists an independent set (in which every two points are not adv_
