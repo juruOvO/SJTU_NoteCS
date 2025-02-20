@@ -40,4 +40,17 @@ _Prove_
 n=1 (1 line) P(1) is true.
 Suppose k<n, P(k) is true,
 For L(n),
-Let color on one 
+Let colors on one side of L(n) hold, colors on the other side transverse,
+For R1,R2 (R1 and R2 touch),
+1. If R1, R2 are on different sides, true.
+2. Otherwise, also true (transverse)
+
+### Adding Problem
+_Triangle:
+1 = 1
+3+5 = 8
+7+9+11 = 27
+...
+Prove: Sum of Line(i) = i^3_
+1. (i+1)^3 - i^3 = 3i^2 +3i +1
+2. 
