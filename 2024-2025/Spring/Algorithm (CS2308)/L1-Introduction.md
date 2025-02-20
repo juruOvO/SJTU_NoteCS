@@ -26,4 +26,6 @@ Udi Mamber, Introduction to algorithms: a creative approach
 ### Homework (50%)
 - Theory: Canvas
 - Exercise: https://www.educoder.com
-- **
+- **Commit Every 2 Weeks**
+- **Never Commit Late**
+- _Exists tolerance_
