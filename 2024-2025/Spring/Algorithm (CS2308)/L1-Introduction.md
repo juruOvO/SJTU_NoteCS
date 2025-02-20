@@ -15,3 +15,15 @@ A program does not need to finish in finite time.
 ## Textbook
 Udi Mamber, Introduction to algorithms: a creative approach
 
+## Outline
+- Bases: Ch.1-Ch.4
+- Core: Ch.5
+- Application: Ch.6-Ch.9
+- Analyses: Ch.10-Ch.11
+- _Optional: Ch.12_
+
+## Grading
+### Homework (50%)
+- Theory: Canvas
+- Exercise: https://www.educoder.com
+- **
