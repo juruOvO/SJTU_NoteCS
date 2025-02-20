@@ -6,6 +6,7 @@
       {
         "id": "739118f08936443f",
         "type": "tabs",
+        "dimension": 67.74193548387096,
         "children": [
           {
             "id": "6a81c73f285f5a84",
@@ -26,6 +27,7 @@
       {
         "id": "cac1748b91615b90",
         "type": "tabs",
+        "dimension": 32.25806451612903,
         "children": [
           {
             "id": "cddb63200046ca62",
@@ -185,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a81c73f285f5a84",
+  "active": "cddb63200046ca62",
   "lastOpenFiles": [
-    "2024-2025/Spring/Modern OS (CS2303)/L1-Introduction.md",
     "2024-2025/Spring/Algorithm (CS2308)/L1-Introduction.md",
+    "2024-2025/Spring/Modern OS (CS2303)/L1-Introduction.md",
     "2024-2025/Spring/Algorithm (CS2308)/pics",
     "2024-2025/Spring/Algorithm (CS2308)",
     "().md",
