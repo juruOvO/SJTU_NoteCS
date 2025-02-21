@@ -37,5 +37,5 @@
  
 ## System services
 ### What is Sys services
-	- Sys services provide a convenient environment 
-		- The lovel.
+	- System services provide a convenient environment for program development and execution.
+[Go Aroad]
