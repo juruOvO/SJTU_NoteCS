@@ -44,3 +44,4 @@
 ### Various ways for OS structures:
 - ...
 
+## Virtual Machine
