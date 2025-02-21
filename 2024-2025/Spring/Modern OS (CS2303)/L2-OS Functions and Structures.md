@@ -12,3 +12,8 @@
 	- CLI
 	- Shell
 		_**The Shell is a special program using Kernel services, receiving commads from CLI or GUI**_
+
+ - _Touchscreen Interfaces_
+	 - _New Interfaces_
+	 - _Voice commands_
+	 
