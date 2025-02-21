@@ -19,3 +19,11 @@
 
 - _AR Interfaces?_
 
+## System calls
+- Programming interfaces to the services provided by the OS.
+- Typically written in a high-level languange.
+
+[Structure](L2_p2.png)
+
+
+API (Applicaion of surv())
