@@ -23,7 +23,14 @@
 - Programming interfaces to the services provided by the OS.
 - Typically written in a high-level languange.
 
-[Structure](L2_p2.png)
+- [Structure](L2_p2.png)
 
-
-API (Applicaion of surv(Application Program Interface_));
+- API (Applicaion of surv(Application Program Interface_));
+- Paarams Passing
+- Types of Sys Calls:
+	- Process Control
+	- FIle Management
+	- Device Management
+	- Information Maintenance
+	- Communications
+	- Protection
