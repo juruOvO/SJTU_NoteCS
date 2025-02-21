@@ -26,4 +26,4 @@
 [Structure](L2_p2.png)
 
 
-API (Applicaion of surv())
+API (Applicaion of surv(Application Program Interface_));
