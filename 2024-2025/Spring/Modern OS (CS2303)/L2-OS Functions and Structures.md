@@ -41,3 +41,6 @@
 - [Difference beween system services and offine sytempsja]
 
 ## OS Structures
+### Various ways for OS structures:
+- ...
+
