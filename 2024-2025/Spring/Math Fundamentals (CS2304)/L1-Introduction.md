@@ -11,4 +11,6 @@ _|D|=|N|_
 ## Set (Revision)
 
 ### Partial Ordering
-- Reflexive: x
+- Reflexive: xRx
+- Anti-symmetric: xRy AND yRx -> x=y
+- Transitive: xRy AND yRz -> xRz
