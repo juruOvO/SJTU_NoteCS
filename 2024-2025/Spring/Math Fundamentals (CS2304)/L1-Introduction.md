@@ -23,3 +23,9 @@ _(S,R)_
 #### Linear Ordering
 - R: partial Ordering
 - For all x,y ∈ S, xRy OR yRx
+
+#### A crucial ordering
+(Sn, ≤n) Linear Ordering
+(a1, a2, ..., an)(b1, b2, ... bn) ∈ S1 * S2 ...
+
+**Lexicographic ordering**
