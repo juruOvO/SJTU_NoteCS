@@ -29,3 +29,10 @@ _(S,R)_
 (a1, a2, ..., an)(b1, b2, ... bn) ∈ S1 * S2 ...
 
 **Lexicographic ordering**
+
+### Immediate predecessor
+- x < y
+- NOT(Exists z) x < z < y
+### Hasse Diagram
+...
+
