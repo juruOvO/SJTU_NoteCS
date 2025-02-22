@@ -53,4 +53,4 @@ pf. **Induction**
 	finite PO set -> min elem exists.
 	delete min elem: S' |S'|=n-1
 	Using S' to construct linear extension PO. (RU{(x0,y)})
-	__
+	_Commonly, there are more than one linear extensions._
