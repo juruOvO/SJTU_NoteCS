@@ -36,3 +36,9 @@ _(S,R)_
 ### Hasse Diagram
 ...
 
+### Minimal/Maximal element
+
+### Smallest/Largest element
+
+_S / L elem -> Min / Max elem_
+
