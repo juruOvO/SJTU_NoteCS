@@ -48,4 +48,9 @@ eg: finite PO set -> min elem exists
 
 ### Linear extensions:
 _For finite PO set, (S,≤) -> (S,≤') s.t. x ≤ y -> x≤y'_
-****
+pf. **Induction**
+	n=1, true.
+	finite PO set -> min elem exists.
+	delete min elem: S' |S'|=n-1
+	Using S' to construct linear extension PO. (RU{(x0,y)})
+	__
