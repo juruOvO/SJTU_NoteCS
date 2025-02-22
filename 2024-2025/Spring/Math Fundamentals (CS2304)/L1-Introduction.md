@@ -42,3 +42,10 @@ _(S,R)_
 
 _S / L elem -> Min / Max elem_
 
+eg: finite PO set -> min elem exists
+	pf. 
+		Suppose none -> infinite.
+
+### Linear extensions:
+_For finite PO set, (S,≤) -> (S,≤') s.t. x ≤ y -> x≤y'_
+****
