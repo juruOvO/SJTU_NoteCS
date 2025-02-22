@@ -14,3 +14,12 @@ _|D|=|N|_
 - Reflexive: xRx
 - Anti-symmetric: xRy AND yRx -> x=y
 - Transitive: xRy AND yRz -> xRz
+### Partial Ordering Set
+_(S,R)_
+#### Symbols:
+- Partial Ordering ≤
+- Strict Inequality <
+- Reverse Inequality > ≥
+#### Linear Ordering
+- R: partial Ordering
+- For all x,y ∈ S, xRy OR yRx
