@@ -11,12 +11,14 @@
             "id": "6a81c73f285f5a84",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf"
+                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/L1-Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008)"
+              "icon": "lucide-file",
+              "title": "L1-Introduction"
             }
           }
         ]
@@ -169,8 +171,8 @@
   },
   "active": "6a81c73f285f5a84",
   "lastOpenFiles": [
-    "2024-2025/Spring/Math Fundamentals (CS2304)/John Hopcroft - March 2019.pdf",
     "2024-2025/Spring/Math Fundamentals (CS2304)/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf",
+    "2024-2025/Spring/Math Fundamentals (CS2304)/John Hopcroft - March 2019.pdf",
     "2024-2025/Spring/Math Fundamentals (CS2304)/L1-Introduction.md",
     "2024-2025/Spring/Modern OS (CS2303)/L2-OS Functions and Structures.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)",
