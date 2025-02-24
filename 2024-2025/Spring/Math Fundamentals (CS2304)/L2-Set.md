@@ -2,9 +2,9 @@
 ___
 
 ####  最长链长度 = 最小反链划分数 (Mirsky's theroem)
-Pf.
+$\text{Pf.}$
 $$
-\begin{flalign*}
+\begin{gather}
 \text{Trivial,}\omega(P)\leq t\\
 \text{For,}\\
 A_{1} = \text{the min elem set of S}\\
@@ -14,7 +14,7 @@ A_{i} = \text{the min elem set of} S\setminus\{A_{1}\cup A_{2} \cup ... \cup A_{
 \text{It's trivial to ocnstruct a chain with len of m}\\
 m\leq\omega(P)\\
 \mathcal{Q.E.D}\\
-\end{flalign*}
+\end{gather}
 $$
 #### 推论：
 - $\alpha(P) \cdot \omega(P) \geq \mid S\mid$
@@ -27,7 +27,7 @@ pf.
 在集合$I$上定义关系$\preceq \colon i\preceq j \text{当且仅当}(i<j)\wedge (x_{i}\leq x_{j})$
 $(I,\preceq)$ 是偏序集
 - $\omega(I,\preceq)>n\colon$ 非递减子序列 $x_{i1}\leq x_{i2}\leq ... \leq x_{im}$
-- $\alpha(I,\preceq)>n$ 
+- $\alpha(I,\preceq)>n\colon$ 递减子序列
 
 ### DIlworth's theroem
 _$P=(S,\preceq)$,
@@ -38,6 +38,12 @@ Suppose $\mid P\mid > 0$,
 Let $\mu = \text{max size of anti-chain}$
 only need to prove P can be partitioned by $\mu$ chains.
 Let C is the maximal chain of P,
+$\text{Pf.}$
+$$
+\begin{gather}
+max\{\mid A\mid\colon\}
+\end{gather}
+$$
 
 **Case 1:**
 Every anti-chain in P\C has $\leq \mu -1$ elems, then by induction, 
