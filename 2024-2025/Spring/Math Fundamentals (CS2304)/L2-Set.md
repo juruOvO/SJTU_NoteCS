@@ -41,7 +41,12 @@ Let C is the maximal chain of P,
 $\text{Pf.}$
 $$
 \begin{gather}
-max\{\mid A\mid\colon\}
+\text{Induction on }\mid P\mid,\\
+\text{Suppose }\mid P\mid >0,\\
+\text{Let }\mu = \text{max size of anti-chain}\\
+\text{Only need to prove P can be partitioned by }\mu\text{chains.}\\
+\text{Let C be the maximal chain of P.}\\
+
 \end{gather}
 $$
 
