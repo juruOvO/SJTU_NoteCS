@@ -18,7 +18,7 @@ Q.E.D
 ### Erdos-Szekeres引理：
 _任意含有$n^2+1$个元素的实数序列，$x_{1},x_{2},...,x_{n^2+1}$中都含有一个长度为$n+1$的单调子序列。_
 pf. 
-对于$(x_{1},...,x_{n^2+1})$,设$I=\{1,2,...,n^2+1\}$
+对于$(x_{1},...,x_{n^2+
 
 ### DIlworth's theroem
 _$P=(S,\preceq)$,
@@ -41,6 +41,6 @@ Note that,
 - $P=P^{-}\cup P^{+}$
 - $A=P^{-}\cap P^{+}$
 - $x_{p}\notin P^{-}$
-
+then, $P^{-}$can be partirioned into $\mu$ chains.
 
 
