@@ -13,7 +13,8 @@ It's trivial to construct a chain with len of m
 $m<=/omega(P)$
 Q.E.D
 #### 推论：
-	α(P)*ω(P)>=|S|
+α(P)*ω(P)>=|S|
+****
 
 ### Erdos-Szekeres引理：
 _任意含有$n^2+1$个元素的实数序列，$x_{1},x_{2},...,x_{n^2+1}$中都含有一个长度为$n+1$的单调子序列。_
@@ -21,7 +22,8 @@ pf.
 对于$(x_{1},...,x_{n^2+1})$,设$I=\{1,2,...,n^2+1\}$
 在集合$I$上定义关系$\preceq \colon i\preceq j \text{当且仅当}(i<j)\wedge (x_{i}\leq x_{j})$
 $(I,\preceq)$ 是偏序集
-- 
+- $\omega(I,\preceq)>n\colon$ 非递减子序列 $x_{i1}\leq x_{i2}\leq ... \leq x_{im}$
+- $\alpha(I,\preceq)>n$ 
 
 ### DIlworth's theroem
 _$P=(S,\preceq)$,
