@@ -19,8 +19,11 @@ $$
 A_{1} = \text{the min elem set of S}\\
 A_{i} = \text{the min elem set of} S\setminus\{A_{1}\cup A_{2} \cup ... \cup A_{i-1}\}\\
 ... A_{m}\\
-\text{}\\
-\
+\text{Only need to proove}\colon\omega(P)\geq m\\
+\text{It's trivial to ocnstruct a chain with len of m}\\
+m\leq\oemga(P)\\\\
+
+\end{align*}
 $$
 #### 推论：
 - $\alpha(P) \cdot \omega(P) \geq \mid S\mid$
