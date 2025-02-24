@@ -31,12 +31,11 @@ $(S,R)$
 #### A crucial ordering
 $(S_{n},\preceq_{n})$ Linear Ordering
 $(a_{1},\dots,a_{n})(b_{1},\dots,b_{n})\in S_{1}\times \dots \times S_{n}$
-
 **Lexicographic ordering**
 
 ### Immediate predecessor
-- x < y
-- NOT(Exists z) x < z < y
+- $x\prec y$
+- $\neg(\exists z)x\prec z\prec y$
 ### Hasse Diagram
 ...
 
@@ -44,7 +43,7 @@ $(a_{1},\dots,a_{n})(b_{1},\dots,b_{n})\in S_{1}\times \dots \times S_{n}$
 
 ### Smallest/Largest element
 
-_S / L elem -> Min / Max elem_
+_S / L elem $\to$ Min / Max elem_
 
 eg: finite PO set -> min elem exists
 	pf. 
