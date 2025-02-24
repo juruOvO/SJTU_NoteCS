@@ -15,15 +15,15 @@ $$
 ## Set (Revision)
 
 ### Partial Ordering
-- Reflexive: xRx
-- Anti-symmetric: xRy AND yRx -> x=y
-- Transitive: xRy AND yRz -> xRz
+- Reflexive: $xRx$
+- Anti-symmetric: $xRy\wedge yRx\to x=y$
+- Transitive: $xRy\wedge yRz\to xRz$
 ### Partial Ordering Set
 _(S,R)_
 #### Symbols:
-- Partial Ordering ≤
-- Strict Inequality <
-- Reverse Inequality > ≥
+- Partial Ordering $\leq\text{ }\preceq$
+- Strict Inequality $<\text{ }\prec$
+- Reverse Inequality $>\text{ }\geq\text{ }\succ\text{ }\succeq$
 #### Linear Ordering
 - R: partial Ordering
 - For all x,y ∈ S, xRy OR yRx
