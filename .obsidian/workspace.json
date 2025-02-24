@@ -11,6 +11,18 @@
             "id": "6a81c73f285f5a84",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008)"
+            }
+          },
+          {
+            "id": "34ab52bd790e8657",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "2024-2025/Spring/Math Fundamentals (CS2304)/L2-Set.md",
@@ -171,6 +183,7 @@
   },
   "active": "6a81c73f285f5a84",
   "lastOpenFiles": [
+    "2024-2025/Spring/Math Fundamentals (CS2304)/L2-Set.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf",
     "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf.crdownload",
     "2024-2025/Spring/Math Fundamentals (CS2304)/slides",
@@ -179,12 +192,10 @@
     "2024-2025/Spring/Math Fundamentals (CS2304)/textbook",
     "2024-2025/Spring/Math Fundamentals (CS2304)/新建文件夹",
     "2024-2025/Spring/Math Fundamentals (CS2304)/L1-Introduction.md",
-    "2024-2025/Spring/Math Fundamentals (CS2304)/L2-Set.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf",
     "2024-2025/Spring/Math Fundamentals (CS2304)/John Hopcroft - March 2019.pdf",
     "2024-2025/Spring/Modern OS (CS2303)/L2-OS Functions and Structures.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)",
-    "未命名",
     "2024-2025/Spring/Modern OS (CS2303)/pics/L2_p3.png",
     "2024-2025/Spring/Modern OS (CS2303)/pics/L2_p2.png",
     "2024-2025/Spring/Modern OS (CS2303)/pics/L2_p1.png",
