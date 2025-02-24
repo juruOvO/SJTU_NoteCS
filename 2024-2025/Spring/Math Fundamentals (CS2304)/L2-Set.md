@@ -26,4 +26,9 @@ $max\{\mid A\mid \colon \text{A is independent set of P}\}=min\{\text{P chain pa
 pf.
 _Induction on $\mid P\mid$_
 Suppose $\mid P\mid > 0$,
+Let $\mu = \text{max size of anti-chain}$
+only need to prove P can be partitioned by $\mu$ chains.
+Let C is the maximal chain of P,
 
+**Case 1:**
+Every anti-chain in P/C has $\leq \mu -1$
