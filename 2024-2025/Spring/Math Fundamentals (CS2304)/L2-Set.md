@@ -35,5 +35,12 @@ Every anti-chain in P\C has $\leq \mu -1$ elems, then by induction,
 P\C can be partitioned into $\mu -1$ chains. Done.
 **Case 2:**
 There still exists  an anti-chain $A=\{a_{1},...,a_{\mu}\}$ in P\C
-$P^{-} = \{x \in P \colon x\preceq a_{i} \text{for some i\}$
+$P^{-} = \{x \in P \colon x\preceq a_{i} \text{ for some i}\}$
+$P^{+} = \{x \in P \colon x\succeq a_{i} \text{ for some i}\}$
+Note that, 
+- $P=P^{-}\cup P^{+}$
+- $A=P^{-}\cap P^{+}$
+- $x_{p}\notin P^{-}$
+
+
 
