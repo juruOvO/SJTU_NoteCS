@@ -9,13 +9,13 @@ A1 = the min elem set of S
 Ai = the min elem set of S\{A1 U A2 ... A(i-1)}
 ... Am
 only need to prove: $/omega(P)>=m$
-		It's trivial to construct a chain with len of m
-		$m<=/omega(P)$
-		Q.E.D
+It's trivial to construct a chain with len of m
+$m<=/omega(P)$
+Q.E.D
 #### 推论：
 	α(P)*ω(P)>=|S|
 
 ### Erdos-Szekeres引理：
 _任意含有$n^2+1$个元素的实数序列，$x_{1},x_{2},...,x_{n^2+1}$中都含有一个长度为$n+1$的单调子序列。_
 pf. 
-	
+对于$(x_{1},...,x_{n^2+1})$,设$I=\{\}$
