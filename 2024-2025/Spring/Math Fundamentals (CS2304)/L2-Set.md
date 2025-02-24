@@ -18,7 +18,9 @@ Q.E.D
 ### Erdos-Szekeres引理：
 _任意含有$n^2+1$个元素的实数序列，$x_{1},x_{2},...,x_{n^2+1}$中都含有一个长度为$n+1$的单调子序列。_
 pf. 
-对于$(x_{1},...,x_{n^2+
+对于$(x_{1},...,x_{n^2+1})$,设$I=\{1,2,...,n^2+1\}$
+在集合$I$上定义关系$\preceq \colon i\preceq j \text{当且仅当}(i<j)\wedge (x_{i}\leq x_{j})$
+
 
 ### DIlworth's theroem
 _$P=(S,\preceq)$,
