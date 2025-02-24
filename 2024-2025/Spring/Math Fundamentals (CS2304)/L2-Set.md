@@ -1,7 +1,7 @@
 ### Chain & Independent set
 ___
 
-####  最长链长度 = 最小反链划分数
+####  最长链长度 = 最小反链划分数 (Mirsky's theroem)
 ##### pf.
 trivial, $\omega(P)\leq t$
 For
@@ -18,4 +18,9 @@ Q.E.D
 ### Erdos-Szekeres引理：
 _任意含有$n^2+1$个元素的实数序列，$x_{1},x_{2},...,x_{n^2+1}$中都含有一个长度为$n+1$的单调子序列。_
 pf. 
-对于$(x_{1},...,x_{n^2+1})$,设$I=\{\}$
+对于$(x_{1},...,x_{n^2+1})$,设$I=\{1,2,...,n^2+1\}$
+
+### DIlworth's theroem
+_$P=(S,\preceq)$,
+$max\{\mid A\mid \colon A is independent set of P\}=min\{P chain partition\}$
+_
