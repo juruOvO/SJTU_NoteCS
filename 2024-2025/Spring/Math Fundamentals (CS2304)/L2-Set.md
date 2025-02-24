@@ -31,4 +31,9 @@ only need to prove P can be partitioned by $\mu$ chains.
 Let C is the maximal chain of P,
 
 **Case 1:**
-Every anti-chain in P/C has $\leq \mu -1$
+Every anti-chain in P\C has $\leq \mu -1$ elems, then by induction, 
+P\C can be partitioned into $\mu -1$ chains. Done.
+**Case 2:**
+There still exists  an anti-chain $A=\{a_{1},...,a_{\mu}\}$ in P\C
+
+
