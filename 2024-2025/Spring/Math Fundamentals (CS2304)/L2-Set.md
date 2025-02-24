@@ -20,7 +20,8 @@ _任意含有$n^2+1$个元素的实数序列，$x_{1},x_{2},...,x_{n^2+1}$中都
 pf. 
 对于$(x_{1},...,x_{n^2+1})$,设$I=\{1,2,...,n^2+1\}$
 在集合$I$上定义关系$\preceq \colon i\preceq j \text{当且仅当}(i<j)\wedge (x_{i}\leq x_{j})$
-
+$(I,\preceq)$ 是偏序集
+- 
 
 ### DIlworth's theroem
 _$P=(S,\preceq)$,
