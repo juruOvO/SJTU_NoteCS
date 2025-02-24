@@ -3,14 +3,12 @@
 **DO NOT HAND IN LATE**
 
 ### An example
-F = {f | f: N->N}
-D = {g | g: N->N & g is C++ realizable}
-s.t. |D|<|F|
-_|D|=|N|_
 $$
 \begin{gather}
 F=\{f\mid f\colon \mathbb{N}\to\mathbb{N}\}\\
-D=\{g\mid g\colon\mathbb{N}\}
+D=\{g\mid g\colon\mathbb{N}\to\mathbb{N}\wedge\text{g is C++ realizable}\}\\
+\text{s.t. }\mid D\mid<\mid F\mid\\
+\mid D\mid=\mid\mathbb{N}\mid\\
 \end{gather}
 $$
 
