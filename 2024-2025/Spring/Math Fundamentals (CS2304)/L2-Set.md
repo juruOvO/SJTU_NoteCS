@@ -12,9 +12,13 @@ only need to prove: $/omega(P)>=m$
 It's trivial to construct a chain with len of m
 $m<=/omega(P)$
 Q.E.D
+$$
+\text{trivial,}\omega(P)\leq t
+
+$$
 #### 推论：
-α(P)*ω(P)>=|S|
-****
+- $\alpha(P) \cdot \omega(P) \geq \mid S\mid$
+- $\alpha(P)\text{,}\omega(P)\text{之一至少为}\sqrt{\mid S\mid}$
 
 ### Erdos-Szekeres引理：
 _任意含有$n^2+1$个元素的实数序列，$x_{1},x_{2},...,x_{n^2+1}$中都含有一个长度为$n+1$的单调子序列。_
