@@ -4,7 +4,7 @@ ___
 ####  最长链长度 = 最小反链划分数 (Mirsky's theroem)
 Pf.
 $$
-\begin{align*}
+\begin{flalign*}
 \text{Trivial,}\omega(P)\leq t\\
 \text{For,}\\
 A_{1} = \text{the min elem set of S}\\
@@ -14,7 +14,7 @@ A_{i} = \text{the min elem set of} S\setminus\{A_{1}\cup A_{2} \cup ... \cup A_{
 \text{It's trivial to ocnstruct a chain with len of m}\\
 m\leq\omega(P)\\
 \mathcal{Q.E.D}\\
-\end{align*}
+\end{flalign*}
 $$
 #### 推论：
 - $\alpha(P) \cdot \omega(P) \geq \mid S\mid$
