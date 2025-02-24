@@ -19,18 +19,18 @@ $$
 - Anti-symmetric: $xRy\wedge yRx\to x=y$
 - Transitive: $xRy\wedge yRz\to xRz$
 ### Partial Ordering Set
-_(S,R)_
+$(S,R)$
 #### Symbols:
 - Partial Ordering $\leq\text{ }\preceq$
 - Strict Inequality $<\text{ }\prec$
 - Reverse Inequality $>\text{ }\geq\text{ }\succ\text{ }\succeq$
 #### Linear Ordering
 - R: partial Ordering
-- For all x,y ∈ S, xRy OR yRx
+- $\forall x,y\in S\colon xRy \vee yRx$
 
 #### A crucial ordering
-(Sn, ≤n) Linear Ordering
-(a1, a2, ..., an)(b1, b2, ... bn) ∈ S1 * S2 ...
+$(S_{n},\preceq_{n})$ Linear Ordering
+$(a_{1},\dots,a_{n})(b_{1},\dots,b_{n})\in S_{1}\times \dots \times S_{n}$
 
 **Lexicographic ordering**
 
