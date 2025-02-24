@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a81c73f285f5a84",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008)"
-            }
-          },
-          {
             "id": "34ab52bd790e8657",
             "type": "leaf",
             "state": {
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf",
+                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/L2-Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008) 的反向链接列表"
+              "title": "L2-Set 的反向链接列表"
             }
           },
           {
@@ -181,10 +169,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a81c73f285f5a84",
+  "floating": {
+    "id": "1d65be6ee620975f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b3ec008cc71bedc4",
+        "type": "window",
+        "children": [
+          {
+            "id": "5bb2650fa7d7a31f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7cfd9aab73ff026",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 341,
+        "y": 133,
+        "width": 1025,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "34ab52bd790e8657",
   "lastOpenFiles": [
-    "2024-2025/Spring/Math Fundamentals (CS2304)/L2-Set.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf",
+    "2024-2025/Spring/Math Fundamentals (CS2304)/L2-Set.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)/slides/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf.crdownload",
     "2024-2025/Spring/Math Fundamentals (CS2304)/slides",
     "2024-2025/Spring/Math Fundamentals (CS2304)/textbook/Matousek J., Nesetril J.-An invitation to discrete mathematics-OUP (2008).pdf",
