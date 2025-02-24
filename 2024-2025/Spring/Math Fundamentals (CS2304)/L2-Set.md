@@ -1,4 +1,5 @@
 ### Chain & Independent set
+___
 
 ####  最长链长度 = 最小反链划分数
 ##### pf.
@@ -11,3 +12,5 @@
 		It's trivial to construct a chain with len of m
 		$m<=/omega(P)$
 		Q.E.D
+#### 推论：
+	α(P)*ω(P)>=|S|
