@@ -2,27 +2,18 @@
 ___
 
 ####  最长链长度 = 最小反链划分数 (Mirsky's theroem)
-##### pf.
-trivial, $\omega(P)\leq t$
-For
-A1 = the min elem set of S
-Ai = the min elem set of S\{A1 U A2 ... A(i-1)}
-... Am
-only need to prove: $/omega(P)>=m$
-It's trivial to construct a chain with len of m
-$m<=/omega(P)$
-Q.E.D
+Pf.
 $$
 \begin{align*}
-\text{Trivial,}\omega(P)\leq t
-\text{For}\\
+\text{Trivial,}\omega(P)\leq t\\
+\text{For,}\\
 A_{1} = \text{the min elem set of S}\\
 A_{i} = \text{the min elem set of} S\setminus\{A_{1}\cup A_{2} \cup ... \cup A_{i-1}\}\\
 ... A_{m}\\
 \text{Only need to proove}\colon\omega(P)\geq m\\
 \text{It's trivial to ocnstruct a chain with len of m}\\
-m\leq\oemga(P)\\\\
-
+m\leq\omega(P)\\
+\mathcal{Q.E.D}\\
 \end{align*}
 $$
 #### 推论：
