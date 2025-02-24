@@ -22,6 +22,8 @@ pf.
 
 ### DIlworth's theroem
 _$P=(S,\preceq)$,
-$max\{\mid A\mid \colon \text{A is independent set of P}\}=min\{\text{P chain partition}\}$
+$max\{\mid A\mid \colon \text{A is independent set of P}\}=min\{\text{P chain partition}\}$_
+pf.
+_Induction on $\mid P\mid$_
+Suppose $\mid P\mid > 0$,
 
-_
