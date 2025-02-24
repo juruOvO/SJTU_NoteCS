@@ -7,6 +7,12 @@ F = {f | f: N->N}
 D = {g | g: N->N & g is C++ realizable}
 s.t. |D|<|F|
 _|D|=|N|_
+$$
+\begin{gather}
+F=\{f\mid f\colon \mathbb{N}\to\mathbb{N}\}\\
+D=\{g\mid g\colon\mathbb{N}\}
+\end{gather}
+$$
 
 ## Set (Revision)
 

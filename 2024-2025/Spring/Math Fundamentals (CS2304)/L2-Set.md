@@ -32,12 +32,6 @@ $(I,\preceq)$ 是偏序集
 ### DIlworth's theroem
 _$P=(S,\preceq)$,
 $max\{\mid A\mid \colon \text{A is independent set of P}\}=min\{\text{P chain partition}\}$_
-pf.
-_Induction on $\mid P\mid$_
-Suppose $\mid P\mid > 0$,
-Let $\mu = \text{max size of anti-chain}$
-only need to prove P can be partitioned by $\mu$ chains.
-Let C is the maximal chain of P,
 $\text{Pf.}$
 $$
 \begin{gather}
@@ -46,7 +40,6 @@ $$
 \text{Let }\mu = \text{max size of anti-chain}\\
 \text{Only need to prove P can be partitioned by }\mu\text{chains.}\\
 \text{Let C be the maximal chain of P.}\\
-
 \end{gather}
 $$
 
@@ -61,6 +54,7 @@ Note that,
 - $P=P^{-}\cup P^{+}$
 - $A=P^{-}\cap P^{+}$
 - $x_{p}\notin P^{-}$
-then, $P^{-}$can be partirioned into $\mu$ chains.
+then, $P^{-}$can be partirioned into $\mu$ chains. (Induction on $P^{-}$ and $P^{+}$)
+
 
 
