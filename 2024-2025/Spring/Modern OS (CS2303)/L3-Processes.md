@@ -109,5 +109,8 @@ Schedulers:
 	- Plug-in
 
 ### Interprocess Communication (IPC)
-	Two models of IPC
-		
+- Two models of IPC
+	- Shared memory
+	- Meesage passing
+![[Pasted image 20250226092822.png]]
+![[Pasted image 20250226093009.png]]
