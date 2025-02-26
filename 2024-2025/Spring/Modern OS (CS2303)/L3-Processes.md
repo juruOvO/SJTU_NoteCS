@@ -25,4 +25,11 @@ Process activity will be recorded in:
 _Heap_ in OS is not related to _Heap_ in DS, while *stack* in OS is related to _stack_ in DS.
 
 - **The size of text and data is fixed.**
-- The 
+- The Stack and Heap can vary dynamically
+	- Stack:
+		- Grow: **Call func**
+		- Shrink: **Func ret**
+	- Heap:
+		- Grow:  **Allocate memory**
+		- Shrink: **Return memory**
+
