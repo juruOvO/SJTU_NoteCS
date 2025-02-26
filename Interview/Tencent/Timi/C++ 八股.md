@@ -1,6 +1,9 @@
 SIMD
+
 缓存算法：FIFO LRU LFU
+
 https://blog.csdn.net/saxon_li/article/details/123974696?spm=1001.2014.3001.5501
+
 FIFO:
 ```C++
 #include <queue>
@@ -235,6 +238,21 @@ public/private/protected
 拷贝构造函数必须要传引用：
 - 无限递归：传值，需要创建副本，如果再次调用拷贝构造函数，则无限递归
 - 效率问题：传值造成额外开销（创建副本）
+
+public/private/protected派生：
+- public: 维持
+- private: public/protected $\to$ private
+- protected: public/protected $\to$ protected
+
+使用关键字 _final_ 的类不能被继承：
+eg:
+```C++
+class NonInheritable final{
+public:
+...
+}
+```
+
 
 
 
