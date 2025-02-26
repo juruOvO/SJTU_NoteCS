@@ -97,3 +97,4 @@ Schedulers:
 
 ![[Pasted image 20250226091112.png]]
 
+### Process Termination
