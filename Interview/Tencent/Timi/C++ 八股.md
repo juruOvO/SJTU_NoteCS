@@ -223,5 +223,9 @@ minFreq = 1;
 constexpr
 [C++11关键字constexpr看这篇就够了-CSDN博客](https://blog.csdn.net/yao_hou/article/details/109301290)
 
+raii
+[c++经验之谈一：RAII原理介绍 - 知乎](https://zhuanlan.zhihu.com/p/34660259)
+
+shared_ptr unique_ptr
 
 

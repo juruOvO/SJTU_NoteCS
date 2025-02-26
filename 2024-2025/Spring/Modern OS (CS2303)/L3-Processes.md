@@ -114,3 +114,13 @@ Schedulers:
 	- Meesage passing
 ![[Pasted image 20250226092822.png]]
 ![[Pasted image 20250226093009.png]]
+
+## IPC: Shared Memory
+---
+![[Pasted image 20250226093455.png]]
+### Producer-Consumer Problem
+- 2 variaaitons:
+	- Unbounded-buffer
+	- Bounded-buffer
+
+### Bounded-buffer solution: shared data
