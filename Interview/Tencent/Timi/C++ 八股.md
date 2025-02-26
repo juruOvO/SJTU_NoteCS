@@ -280,6 +280,9 @@ malloc/free & new/delete:
 - malloc/free 仅分配和释放内存
 - new/delete 不仅负责分配和释放内存，也负责构造和析构
 
+内存池
+
+浅拷贝/深拷贝：
 
 
 
