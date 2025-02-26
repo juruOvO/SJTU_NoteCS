@@ -132,4 +132,11 @@ item buffer[BUFFER_SIZE];
 int in = 0; 
 int out = 0;
 ```
-
+```C
+item next_produced; 
+while (true) {
+/* Produce an item */ 
+while (((in + 1) % BUFFER_SIZE) == out) ;
+ /* do nothing -- no free buffers */ 
+ buffer[in] = next_produced; in = (in + 1) % BUFFER_SIZE; }
+```
