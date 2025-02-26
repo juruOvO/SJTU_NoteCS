@@ -33,3 +33,10 @@ _Heap_ in OS is not related to _Heap_ in DS, while *stack* in OS is related to _
 		- Grow:  **Allocate memory**
 		- Shrink: **Return memory**
 
+### Process State
+- New
+- Ready
+- Running
+- Waiting
+- Terminated
+[Process State Diagram](L3_p3.png)
