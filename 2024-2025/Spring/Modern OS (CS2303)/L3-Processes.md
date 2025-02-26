@@ -99,3 +99,15 @@ Schedulers:
 
 ### Process Termination
 ![[Pasted image 20250226091727.png]]![[Pasted image 20250226092023.png]]
+
+## Interprocess Communication
+---
+### Example: Chrome Browser
+- 3 different types of processes:
+	- Browser
+	- Renderer
+	- Plug-in
+
+### Interprocess Communication (IPC)
+	Two models of IPC
+		
