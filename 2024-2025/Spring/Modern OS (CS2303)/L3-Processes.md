@@ -218,6 +218,15 @@ close(mypipe[0]);//read-end
 ## Communication in Client-Server System
 ---
 - Sockets
-- 
+- Remote procedure call (RPC)
+
+### Sockets
+- A socket is defined as an endpoint for communication
+	- Communication consists of a pair of sockets
+	- They communicate over a network between distributed divices
+- IP and ports
+
+### Creation Steps: Server side
+
 
 
