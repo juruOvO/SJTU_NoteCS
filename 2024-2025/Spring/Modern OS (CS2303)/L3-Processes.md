@@ -132,11 +132,30 @@ item buffer[BUFFER_SIZE];
 int in = 0; 
 int out = 0;
 ```
+Producer Process
 ```C
 item next_produced; 
 while (true) {
 /* Produce an item */ 
 while (((in + 1) % BUFFER_SIZE) == out) ;
  /* do nothing -- no free buffers */ 
- buffer[in] = next_produced; in = (in + 1) % BUFFER_SIZE; }
+ buffer[in] = next_produced; 
+ in = (in + 1) % BUFFER_SIZE; }
 ```
+Consumer Process
+```C
+item next_consumed; 
+while (true) { while (in == out) ; 
+/* do nothing */ 
+next_consumed = buffer[out]; 
+out = (out + 1) % BUFFER_SIZE; } /* consume the item in next consumed */
+```
+
+Optimization:
+Fully use buffer slots.
+1. Add a recorder
+2. Avoiding (in == out) when full
+
+## IPC: Message Passing
+---
+- Two operations
