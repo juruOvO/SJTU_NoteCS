@@ -62,4 +62,12 @@ Maintaining:
 - Ready Queue
 - Wait Queue
 
+### CPU Switch From Process to Process
+Context Switch:
+![[Pasted image 20250226085856.png]]
+	- Context switch time is pure overhead.
 
+Schedulers:
+- Two levels of schedulers:
+	- **Long-tern Scheduler**
+	- **Short-tern Scheduler**
