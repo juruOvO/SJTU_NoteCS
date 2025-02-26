@@ -170,10 +170,18 @@ Fully use buffer slots.
 
 ### DIrect communication
 - Process must **Name** each other explicitly
-- The link is commonly bidirectional
+- The link is commonly bidirectional (may be unidirectional)
+- **Exactly ONE link** between every communication pair
 
 ### Indirect communication
 - Messages are directed and received from **Mailboxes (ports)**
 	- Each mailbox has a unique id
 	- process can communicate only if they share a mailbox
-- 
+- uni or bi-directional (commonly bi)
+- **Several links** can exist between every communication pair
+![[Pasted image 20250226101742.png]]
+### Message Passing: Synchronization
+- **blocking** or **non-blocking**
+![[Pasted image 20250226101923.png]]
+
+### Unix Example
