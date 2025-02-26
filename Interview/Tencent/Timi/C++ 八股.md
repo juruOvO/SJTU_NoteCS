@@ -283,6 +283,7 @@ malloc/free & new/delete:
 内存池
 
 浅拷贝/深拷贝：
+![[Pasted image 20250226202015.png]]
 
 
 
