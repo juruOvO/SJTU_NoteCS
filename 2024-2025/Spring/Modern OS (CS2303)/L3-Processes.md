@@ -20,3 +20,9 @@ Process memory can be divided into 4 parts:
 Process activity will be recorded in:
 - Program counter (PC)
 - Process registers contents
+[Process Memory Structure](L3_p2.png)
+
+_Heap_ in OS is not related to _Heap_ in DS, while *stack* in OS is related to _stack_ in DS.
+
+- **The size of text and data is fixed.**
+- The 
