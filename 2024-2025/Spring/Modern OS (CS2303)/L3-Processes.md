@@ -227,6 +227,12 @@ close(mypipe[0]);//read-end
 - IP and ports
 
 ### Creation Steps: Server side
+![[Pasted image 20250226103536.png]]
+
+### Create Steps: Client side
+![[Pasted image 20250226103633.png]]
+### RPC
+![[Pasted image 20250226103954.png]]
 
 
 
