@@ -158,4 +158,22 @@ Fully use buffer slots.
 
 ## IPC: Message Passing
 ---
-- Two operations
+- Two operations:
+	- **Send**
+	- **Receive**
+- If P and Q want to communicate, theey have to:
+	- Establish a _communication link_
+	- Send/Receive
+- Two types of communication:
+	- Direct
+	- Indirect
+
+### DIrect communication
+- Process must **Name** each other explicitly
+- The link is commonly bidirectional
+
+### Indirect communication
+- Messages are directed and received from **Mailboxes (ports)**
+	- Each mailbox has a unique id
+	- process can communicate only if they share a mailbox
+- 
