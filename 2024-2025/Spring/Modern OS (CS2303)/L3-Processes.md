@@ -98,3 +98,4 @@ Schedulers:
 ![[Pasted image 20250226091112.png]]
 
 ### Process Termination
+![[Pasted image 20250226091727.png]]![[Pasted image 20250226092023.png]]

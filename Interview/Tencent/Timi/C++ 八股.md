@@ -1,5 +1,6 @@
 SIMD
 缓存算法：FIFO LRU LFU
+
 FIFO:
 ```C++
 #include <queue>
@@ -218,3 +219,7 @@ minFreq = 1;
 
 };
 ```
+
+constexpr
+[C++11关键字constexpr看这篇就够了-CSDN博客](https://blog.csdn.net/yao_hou/article/details/109301290)
+
