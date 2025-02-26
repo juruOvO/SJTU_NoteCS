@@ -269,9 +269,14 @@ Name& operator=(const Name&){return *this;}
 ~Name(){}
 public:
 static Name* createInstance(){
-	return
+	return new Name();
+}
+static void deleteInstance(Name* instance){
+	delete instance;
 }
 ```
+
+
 
 
 
