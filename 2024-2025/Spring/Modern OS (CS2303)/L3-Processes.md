@@ -81,4 +81,19 @@ Schedulers:
 ---
 ### Process Creation
 - _**Parent Process Create Children Process**_
-- Process identified and mana
+- Process identified and managed via a **Process Identifier (pid)**
+
+### Parent and CHild Process Relations
+- Resources sharing options:
+	- p and c share all resources
+	- c share subset of p's resources
+	- share no resources
+- Execution options
+	- concurrently
+	- p wait until c terminate
+- Address space options
+	- c duplicate addr space of p
+	- c has a program loaded into it
+
+![[Pasted image 20250226091112.png]]
+

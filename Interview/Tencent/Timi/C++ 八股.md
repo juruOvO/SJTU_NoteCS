@@ -127,3 +127,94 @@ cache[key] = {value, keys.begin()};
 };
 ```
 LFU:
+```C++
+#include <unordered_map>
+
+#include <list>
+
+  
+
+struct Node {
+
+int key, value, freq;
+
+Node(int k, int v, int f) : key(k), value(v), freq(f) {}
+
+};
+
+  
+
+class LFUCache {
+
+int capacity, minFreq;
+
+std::unordered_map<int, Node*> keyTable;
+
+std::unordered_map<int, std::list<Node*>> freqTable;
+
+  
+
+public:
+
+LFUCache(int cap) : capacity(cap), minFreq(0) {}
+
+  
+
+int get(int key) {
+
+if (keyTable.find(key) == keyTable.end()) return -1;
+
+Node* node = keyTable[key];
+
+freqTable[node->freq].remove(node);
+
+if (freqTable[node->freq].empty() && node->freq == minFreq) minFreq++;
+
+node->freq++;
+
+freqTable[node->freq].push_front(node);
+
+return node->value;
+
+}
+
+  
+
+void put(int key, int value) {
+
+if (capacity == 0) return;
+
+if (keyTable.find(key) != keyTable.end()) {
+
+keyTable[key]->value = value;
+
+get(key);
+
+} else {
+
+if (keyTable.size() == capacity) {
+
+Node* node = freqTable[minFreq].back();
+
+freqTable[minFreq].pop_back();
+
+keyTable.erase(node->key);
+
+delete node;
+
+}
+
+Node* newNode = new Node(key, value, 1);
+
+keyTable[key] = newNode;
+
+freqTable[1].push_front(newNode);
+
+minFreq = 1;
+
+}
+
+}
+
+};
+```
