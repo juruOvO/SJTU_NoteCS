@@ -71,3 +71,14 @@ Schedulers:
 - Two levels of schedulers:
 	- **Long-tern Scheduler**
 	- **Short-tern Scheduler**
+![[Pasted image 20250226090248.png]]
+
+- 2 types of process
+	- I/O-bound process
+	- CPU-bound process
+
+## Process Operations
+---
+### Process Creation
+- _**Parent Process Create Children Process**_
+- Process identified and mana
