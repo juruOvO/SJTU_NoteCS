@@ -253,6 +253,25 @@ public:
 }
 ```
 
+声明new delete为私有：只允许静态分配：
+```C++
+private:
+static void* operator new(size_t) = delete;
+static void operator delete(void*) = delete;
+```
+
+声明构造函数、拷贝构造函数、赋值运算符、析构函数为私有：只允许动态分配（需要提供静态工厂函数）
+```C++
+private:
+Name(){}
+Name(const Name&){}
+Name& operator=(const Name&){return *this;}
+~Name(){}
+public:
+static Name* createInstance(){
+	return
+}
+```
 
 
 
