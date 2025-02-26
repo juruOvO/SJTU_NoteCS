@@ -40,3 +40,15 @@ _Heap_ in OS is not related to _Heap_ in DS, while *stack* in OS is related to _
 - Waiting
 - Terminated
 [Process State Diagram](L3_p3.png)
+
+### Process Control Block (PCB)
+Information associated with each process (a.k.a. Task Control Block)
+- Process state
+- Program counter
+- CPU registers
+- CPU scheduling info
+- Memory-management info
+- Accounting info
+- IO status info
+[PCB Sturcture](L3_p4.png)
+
