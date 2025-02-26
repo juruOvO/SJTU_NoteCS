@@ -52,3 +52,14 @@ Information associated with each process (a.k.a. Task Control Block)
 - IO status info
 [PCB Sturcture](L3_p4.png)
 
+## Process Scheduling
+---
+**Process scheduler** selects an available processes for next execution on CPU core.
+
+**Goal:** Maximize CPU use. Quickly switch processes onto CPU core.
+
+Maintaining:
+- Ready Queue
+- Wait Queue
+
+
