@@ -198,4 +198,26 @@ Fully use buffer slots.
 - bidirectional
 
 ### Using pipe
-1, Create a pipe and check for er
+1. Create a pipe and check for errs
+```C
+int mypipe[2]; 
+if (pipe(mypipe)) { 
+fprintf (stderr, "Pipe failed.\n"); 
+return -1; }
+```
+
+2. Fork your threads
+
+3.  Close the pipes you don't need in that thread
+```C
+close(mypipe[1]);//write-end
+close(mypipe[0]);//read-end
+```
+
+![[Pasted image 20250226102906.png]]
+## Communication in Client-Server System
+---
+- Sockets
+- 
+
+
