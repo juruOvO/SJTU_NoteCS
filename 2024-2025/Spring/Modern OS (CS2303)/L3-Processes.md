@@ -185,3 +185,17 @@ Fully use buffer slots.
 ![[Pasted image 20250226101923.png]]
 
 ### Unix Example
+![[Pasted image 20250226102036.png]]
+
+### Ordinary Pipes
+- Unidirectional
+- 2 ends
+	- write end
+	- read end
+![[Pasted image 20250226102336.png]]
+
+### Named Pipes
+- bidirectional
+
+### Using pipe
+1, Create a pipe and check for er
