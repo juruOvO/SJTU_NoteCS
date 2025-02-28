@@ -22,4 +22,14 @@
 
 ### Amdahl's Law
 
-## Multi
+## Multithread Model
+---
+### Kernel thread & user thread
+
+### Lightweight process (LWP)
+
+- Many to one
+- One to one
+- Many to many
+- Two-level model
+
