@@ -20,3 +20,6 @@
 - Data parallelism
 - Task parallelism
 
+### Amdahl's Law
+
+## Multi
