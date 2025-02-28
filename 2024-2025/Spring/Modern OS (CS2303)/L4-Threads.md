@@ -39,3 +39,6 @@
 ### Pthread
 ![[Pasted image 20250228144551.png]]
 ![[Pasted image 20250228144606.png]]
+## Implicit Threading
+---
+### Thread pool
