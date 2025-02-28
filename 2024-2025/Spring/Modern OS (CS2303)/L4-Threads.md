@@ -42,3 +42,6 @@
 ## Implicit Threading
 ---
 ### Thread pool
+
+### Fork-Join parallelism
+
