@@ -12,3 +12,11 @@
 		- data section
 		- other OS resources, such as open files
 
+## Mutithread Programming
+---
+### Concurrency & Parallelism
+
+### Parallelism
+- Data parallelism
+- Task parallelism
+
