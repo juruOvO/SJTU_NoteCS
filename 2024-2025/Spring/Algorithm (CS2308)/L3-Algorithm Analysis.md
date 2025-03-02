@@ -7,4 +7,7 @@ $\dots$
 
 ## Analysis
 ### Strling fomula
-$n!=sqrt(2\pi n)(\frac{n,e})^{n}(1+O(\frac{1}{n))\approximate sqrt(2\pi n)frac{n,e}^{n}}$
+$n!=\sqrt{2\pi n}(\frac{n}{e})^{n}(1+O(\frac{1}{n}))\approx \sqrt{2\pi n}\frac{n}{e}^{n}$ 
+$\log$
+
+
