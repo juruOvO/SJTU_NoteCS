@@ -14,3 +14,6 @@ $\log(n!)=\Theta(n\log n)$
 ![[Pasted image 20250302162412.png]]
 
 ![[Pasted image 20250302162631.png]]
+
+## Master Theorem
+
