@@ -34,7 +34,12 @@ $$
 
 
 $$
-\Sigma^{n}_{i=0}\begin{pmatrix}n\\i\end{pmatrix}
+\Sigma^{n}_{i=0}\begin{pmatrix}n\\i\end{pmatrix}^{2}=\begin{pmatrix}2n\\n\end{pmatrix}
+$$
+
+### Vandermonde's identity/convolution
+$$
+\begin{pmatrix}n_{1}+\dots n_{p}\\m\end{pmatrix}=
 $$
 
 
