@@ -28,6 +28,11 @@ $$
 
 _Balls-Bins Model?_
 
+$$
+\begin{pmatrix}  x\\k  \end{pmatrix}\text{ defines a SET.}
+$$
+
+
 
 
 
