@@ -39,8 +39,9 @@ $$
 
 ### Vandermonde's identity/convolution
 $$
-\begin{pmatrix}n_{1}+\dots n_{p}\\m\end{pmatrix}=
+\begin{pmatrix}n_{1}+\dots n_{p}\\m\end{pmatrix}=\Sigma_{k_{1}+\dots k_{p}=m}\begin{pmatrix}n_{1}\\ k_{1}\end{pmatrix}\dots\begin{pmatrix}n_{p}\\ k_{p}\end{pmatrix}
 $$
+
 
 
 
