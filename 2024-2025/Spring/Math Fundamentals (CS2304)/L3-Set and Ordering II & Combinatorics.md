@@ -33,6 +33,9 @@ $$
 $$
 
 
+$$
+\Sigma^{n}_{i=0}\begin{pmatrix}n\\i\end{pmatrix}
+$$
 
 
 
