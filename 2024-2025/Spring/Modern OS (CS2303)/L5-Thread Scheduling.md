@@ -24,3 +24,6 @@ Dispatcher latency
 
 ### SJF
 SJF always gives a minimal **average waiting time**.
+Preemptive version: shortest-remaining-time-first
+
+Expecting the length of time:
