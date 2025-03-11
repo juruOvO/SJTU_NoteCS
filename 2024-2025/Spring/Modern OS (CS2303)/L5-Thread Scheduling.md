@@ -12,3 +12,11 @@ _1,4: nonpreemptive. 2,3: preemptive_
 **_Gantt Chart_**
 
 ## Dispatcher
+- switch context
+- switch to user mode
+- jump to proper location
+
+Dispatcher latency
+
+
+## S
