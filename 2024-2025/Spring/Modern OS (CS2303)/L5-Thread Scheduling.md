@@ -19,4 +19,5 @@ _1,4: nonpreemptive. 2,3: preemptive_
 Dispatcher latency
 
 
-## S
+## Scheduling algorithms
+### FCFS
