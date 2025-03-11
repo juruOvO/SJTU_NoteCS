@@ -4,4 +4,7 @@ CPU-IO burst cycle
 ## CPU Scheduler
 CPU scheduling make dicisions when:
 1. run->wait
-2. 
+2. run->ready
+3. wait->ready
+4. terminate
+_1,4: nonpreemptive. 2,3: preemptive_
