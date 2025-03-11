@@ -21,3 +21,6 @@ Dispatcher latency
 
 ## Scheduling algorithms
 ### FCFS
+
+### SJF
+SJF always gives a minimal **average waiting time**.
