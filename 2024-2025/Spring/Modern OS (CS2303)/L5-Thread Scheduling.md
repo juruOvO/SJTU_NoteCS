@@ -8,3 +8,7 @@ CPU scheduling make dicisions when:
 3. wait->ready
 4. terminate
 _1,4: nonpreemptive. 2,3: preemptive_
+
+**_Gantt Chart_**
+
+## Dispatcher
