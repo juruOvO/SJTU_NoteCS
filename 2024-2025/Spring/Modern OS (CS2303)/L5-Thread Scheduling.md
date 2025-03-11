@@ -24,9 +24,10 @@ Dispatcher latency
 
 ### SJF
 SJF always gives a minimal **average waiting time**.
-Preemptive version: shortest-remaining-time-first
+Preemptive version: shortest-remaining-time-first (SRT)
 
 Expecting the length of time:
 - expotional moving average
 $\tau_{n+1}=\alpha t_{n}+(1-\alpha)\tau_{n}$
 $\tau \text{ is the expected time, t is the real time.}$
+
