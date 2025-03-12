@@ -39,4 +39,7 @@ rule of thumb
 ## Multilevel Queue Scheduling
 - Fixed priority
 - Time slice
+Multilevel Feedback Scheduling
+
+## Thread scheduling
 
