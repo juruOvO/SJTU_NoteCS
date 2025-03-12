@@ -51,5 +51,5 @@ Multilevel Feedback Scheduling
 
 ## Multiprocessor scheduling
 - asymmetric
-- symmetric
+- symmetric (SMP)
 
