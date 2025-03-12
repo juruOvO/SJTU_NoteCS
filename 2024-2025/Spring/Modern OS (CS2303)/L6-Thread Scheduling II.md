@@ -9,4 +9,9 @@
 - Hard affinity
 
 ## Realtime CPU scheduling
-- Sof
+- Soft real-time systems
+- Hard real-time systems
+
+Periodic: $t\leq d\leq p$
+
+### 
