@@ -1,3 +1,5 @@
+# Process Scheduling
+---
 ## Basic Concepts
 CPU-IO burst cycle
 
@@ -41,5 +43,9 @@ rule of thumb
 - Time slice
 Multilevel Feedback Scheduling
 
-## Thread scheduling
+# Thread scheduling
+
+---
+**User-level** PCS: process-contention scope
+**Kernel-level** SCS: system-contention scope
 
