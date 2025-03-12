@@ -31,3 +31,7 @@ Expecting the length of time:
 $\tau_{n+1}=\alpha t_{n}+(1-\alpha)\tau_{n}$
 $\tau \text{ is the expected time, t is the real time.}$
 
+## Priority Scheduling
+
+## RR
+rule of thu
