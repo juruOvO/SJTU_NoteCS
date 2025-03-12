@@ -31,7 +31,12 @@ Expecting the length of time:
 $\tau_{n+1}=\alpha t_{n}+(1-\alpha)\tau_{n}$
 $\tau \text{ is the expected time, t is the real time.}$
 
-## Priority Scheduling
+### Priority Scheduling
 
-## RR
-rule of thu
+### RR
+rule of thumb
+
+## Multilevel Queue Scheduling
+- Fixed priority
+- Time slice
+
