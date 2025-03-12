@@ -49,3 +49,7 @@ Multilevel Feedback Scheduling
 **User-level** PCS: process-contention scope
 **Kernel-level** SCS: system-contention scope
 
+## Multiprocessor scheduling
+- asymmetric
+- symmetric
+
