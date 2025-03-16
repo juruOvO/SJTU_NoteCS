@@ -39,7 +39,9 @@ Why?
 $$
 \begin{cases}  
  x_{k}=1\\
-x_{k}>1
+x_{k}>1, then x_{1}-1+\dots+x_{k}-1=n-k
 \end{cases}
 $$
+
+$\sum_{k=1}^{m}P_{k}(n)$
 
