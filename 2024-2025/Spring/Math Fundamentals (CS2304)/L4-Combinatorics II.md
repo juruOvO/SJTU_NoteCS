@@ -62,5 +62,7 @@ $$
 - 错排
 	$D(n)=n!-\mid A_{1}\cup\dots\cup A_{n}\mid$
 	$\lim_{n->\infty}D(n)=n/e$
+- 欧拉函数$\phi$
+	$\phi(n)={x\mid x\leq n\wedge gcd(n,x)=1}$
 	
 
