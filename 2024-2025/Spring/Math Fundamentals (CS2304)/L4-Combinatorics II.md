@@ -1,3 +1,10 @@
+## Multinominal theorem
 $$
-\text{For arbitary real numver }x_{1},x_{2}\dots x_{m}, \text{ for }n\geq 1,
+	\text{For arbitary real numver }x_{1},x_{2}\dots x_{m}, \text{ for }n\geq 1,\text{ coefficient of }x_{1}^{k_{1}}\dots x_{m}^{k_{m}}~(k_{1}+\dots+k_{m}=n)={n \choose k_{1},k_{2},\dots,k_{m}}
 $$
+
+## Newton's generalized binominal theorem
+$$
+\text{Let }{r\choose k}=\frac{r(r-1)\dots(r-k+1)}{k!}=\frac{(r)_{k}}{k!},\text{where r is arbitary, k is an integer and k>0}
+$$
+
