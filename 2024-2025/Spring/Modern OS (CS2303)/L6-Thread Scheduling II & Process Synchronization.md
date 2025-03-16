@@ -14,4 +14,14 @@
 
 Periodic: $t\leq d\leq p$
 
-### 
+### RT Scheduling
+#### Rate Monotonic
+
+#### Earliest Deadline First (EDF)
+
+## Algorithm Evaluation
+
+### Deterministic Evaluation
+min average waiting time
+
+
