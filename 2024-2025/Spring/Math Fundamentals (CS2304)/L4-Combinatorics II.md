@@ -15,4 +15,5 @@ $$
 
 ## Strling subset numbers
 - The first Strling number: $({n\choose k})$
+- The second Strling number: nonempty ${n\\ k}$
 - 
