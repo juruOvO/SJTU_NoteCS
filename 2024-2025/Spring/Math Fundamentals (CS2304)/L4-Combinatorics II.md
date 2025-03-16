@@ -13,3 +13,6 @@ $$
 $$
 
 
+## Strling subset numbers
+- The first Strling number: $({n\choose k})$
+- 
