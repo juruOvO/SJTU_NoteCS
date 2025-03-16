@@ -45,5 +45,8 @@ $$
 
 $\sum_{k=1}^{m}P_{k}(n)=P_{m}(n+m)$
 
-**_Counting Problem Reference_** [](en.wikipedia.org/wi)
+**_Counting Problem Reference_** [Twelvefold_way](en.wikipedia.org/wiki/Twelvefold_way)
+
+## Inclusive-exclusive
+
 
