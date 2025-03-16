@@ -67,5 +67,7 @@ $$
 	$\phi(n)=n(1-\frac{1}{p_{1}})\dots(1-\frac{1}{p_{r}})$
 	Application: RSA
 
-_*_
+_*Mobius Inversion_
+
+
 
