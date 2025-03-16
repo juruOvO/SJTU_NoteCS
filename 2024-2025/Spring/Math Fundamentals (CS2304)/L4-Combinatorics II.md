@@ -18,3 +18,9 @@ $$
 - The second Strling number: nonempty sets  ${n\brace k}$ ${n\brace 2}=2^{n-1}-1$ ${n\brace m}=k{n\brace k-1}+{n-1\brace k-1}$
 ${n\brack k}\geq{n\brace k}$
 ${n\brack 1}=(n-1)!$
+$\sum_{k=0}^{n}{n\brack k}=n!$
+$$
+{n\brack k}=(n-1){n-1\brack k}+{n-1\brack k-1}
+$$
+## Partition of number
+$P_{k}(n)$
