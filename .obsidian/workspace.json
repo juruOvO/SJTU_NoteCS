@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/L4-.md",
+                "file": "2024-2025/Spring/Math Fundamentals (CS2304)/L4-Combinatorics II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4-"
+              "title": "L4-Combinatorics II"
             }
           }
         ]
@@ -171,10 +171,10 @@
   },
   "active": "34ab52bd790e8657",
   "lastOpenFiles": [
-    "2024-2025/Spring/Modern OS (CS2303)/L6-Thread Scheduling II & Process Synchronization.md",
-    "2024-2025/Spring/Math Fundamentals (CS2304)/L4-.md",
-    "2024-2025/Spring/Modern OS (CS2303)/L5-Thread Scheduling.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)/L3-Set and Ordering II & Combinatorics.md",
+    "2024-2025/Spring/Math Fundamentals (CS2304)/L4-Combinatorics II.md",
+    "2024-2025/Spring/Modern OS (CS2303)/L6-Thread Scheduling II & Process Synchronization.md",
+    "2024-2025/Spring/Modern OS (CS2303)/L5-Thread Scheduling.md",
     "未命名.md",
     "2024-2025/Spring/Math Fundamentals (CS2304)/L2-Set and Ordering I.md",
     "2024-2025/Spring/Algorithm (CS2308)/L3-Algorithm Analysis.md",
