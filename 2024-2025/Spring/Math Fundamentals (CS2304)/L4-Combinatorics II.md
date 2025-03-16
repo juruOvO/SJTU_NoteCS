@@ -8,5 +8,8 @@ $$
 \text{Let }{r\choose k}=\frac{r(r-1)\dots(r-k+1)}{k!}=\frac{(r)_{k}}{k!},\text{where r is arbitary, k is an integer and k>0}
 $$
 $$
-\text{If x and y are real numbers with }\mid x\mid>\mid y\mid
+\text{If x and y are real numbers with }\mid x\mid>\mid y\mid,
+(x+y)^{r}=\sum_{k=0}^{\infty}{r\choose k}x^{r-k}y^{k}
 $$
+
+
