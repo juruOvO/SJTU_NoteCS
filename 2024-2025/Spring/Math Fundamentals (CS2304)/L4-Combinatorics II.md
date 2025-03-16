@@ -64,5 +64,8 @@ $$
 	$\lim_{n->\infty}D(n)=n/e$
 - 欧拉函数$\phi$
 	$\phi(n)={x\mid x\leq n\wedge gcd(n,x)=1}$
-	
+	$\phi(n)=n(1-\frac{1}{p_{1}})\dots(1-\frac{1}{p_{r}})$
+	Application: RSA
+
+_*_
 
