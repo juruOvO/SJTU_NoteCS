@@ -24,3 +24,15 @@ $$
 $$
 ## Partition of number
 $P_{k}(n)$
+e.g., $P_{2}(7)=\{\{1,6\},\{3,4\},\{2,5\}\}$
+$$
+\begin{cases}
+ x_{1}+\dots+x_{k}=n\\
+ x_{1}\geq\dots x_{k}\geq 1\\
+\end{cases}
+$$
+$$
+P_{k}(n)=P_{k-1}(n-1)+P_{k}(n-k)
+$$
+
+
