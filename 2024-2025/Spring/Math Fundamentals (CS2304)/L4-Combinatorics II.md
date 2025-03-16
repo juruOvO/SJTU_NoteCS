@@ -43,5 +43,7 @@ x_{k}>1, then x_{1}-1+\dots+x_{k}-1=n-k
 \end{cases}
 $$
 
-$\sum_{k=1}^{m}P_{k}(n)$
+$\sum_{k=1}^{m}P_{k}(n)=P_{m}(n+m)$
+
+**_Counting Problem Reference_** [](en.wikipedia.org/wi)
 
