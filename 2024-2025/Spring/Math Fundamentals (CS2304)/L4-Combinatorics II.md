@@ -48,5 +48,8 @@ $\sum_{k=1}^{m}P_{k}(n)=P_{m}(n+m)$
 **_Counting Problem Reference_** [Twelvefold_way](en.wikipedia.org/wiki/Twelvefold_way)
 
 ## Inclusive-exclusive
-
+### Inclusive-exclusive principle
+$$
+\mid\Cup_{i=1}^{n}A_{i}\mid=\sum_{\emptyset\neq I\subseteq\{1,2,\dots,n\}}
+$$
 
