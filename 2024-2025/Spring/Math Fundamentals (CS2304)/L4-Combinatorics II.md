@@ -50,6 +50,15 @@ $\sum_{k=1}^{m}P_{k}(n)=P_{m}(n+m)$
 ## Inclusive-exclusive
 ### Inclusive-exclusive principle
 $$
-\mid\Cup_{i=1}^{n}A_{i}\mid=\sum_{\emptyset\neq I\subseteq\{1,2,\dots,n\}}
+\mid\Cup_{i=1}^{n}A_{i}\mid=\sum_{\emptyset\neq I\subseteq\{1,2,\dots,n\}}(-1)^{\mid I\mid-1}\mid\Cap_{i\in I} A_{i}\mid
 $$
+$$
+\begin{align}
+Pf.
+\text{数学归纳法}
+\end{align}
+$$
+### Application
+- 
+
 
