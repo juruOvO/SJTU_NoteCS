@@ -15,5 +15,5 @@ $$
 
 ## Strling subset numbers
 - The first Strling number: $({n\choose k})$
-- The second Strling number: nonempty ${n\\ k}$
-- 
+- The second Strling number: nonempty ${n\brace k}$ ${n\brace 2}=2^{n-1}-1$ ${n\brace m}=k{n\brace k-1}+{n-1\brace k-1}$
+
