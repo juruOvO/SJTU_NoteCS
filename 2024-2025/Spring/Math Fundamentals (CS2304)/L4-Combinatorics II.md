@@ -35,4 +35,11 @@ $$
 P_{k}(n)=P_{k-1}(n-1)+P_{k}(n-k)
 $$
 
+Why?
+$$
+\begin{cases}  
+ x_{k}=1\\
+x_{k}>1
+\end{cases}
+$$
 
