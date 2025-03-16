@@ -60,6 +60,7 @@ Pf.
 $$
 ### Application
 - 错排
-- 
-
+	$D(n)=n!-\mid A_{1}\cup\dots\cup A_{n}\mid$
+	$\lim_{n->\infty}D(n)=n/e$
+	
 
