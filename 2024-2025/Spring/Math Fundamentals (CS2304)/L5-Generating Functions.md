@@ -4,3 +4,5 @@
 	- Shift-right
 	- Shift-left
 	- Substituting
+	- Multiple(Convolution)
+
